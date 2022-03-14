@@ -1,0 +1,25 @@
+body{
+    background:#2c3e50;
+}
+
+header{
+    color:white;
+}
+
+h2{
+    color:#f1c40f;
+}
+
+h3{
+    color:black;
+    background:#f1c40f;
+    border:3px black solid;
+}
+
+ul{
+    color:white;
+}
+
+.highlighted{
+    color:#e74c3c;
+}
